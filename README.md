@@ -1,6 +1,6 @@
 # 概要
 
-- 项目构建[线上地址](http://doc.3keji.com)
+- 项目构建[线上地址](/wiki)
 ```
 // 安装shoudao-cli
 $ npm i -g shoudao-cli
