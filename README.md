@@ -1,19 +1,10 @@
 # 概要
 
 - 项目构建[线上地址](https://github.com/q-qin/gitbook/wiki)
-```
-// 安装shoudao-cli
-$ npm i -g shoudao-cli
 
-// 查看版本
-$ shoudao-cli -V
+# 前端开发规范的意义
 
-// 查看帮助
-$ shoudao-cli --help
-
-// 开始自动化构建
-$ shoudao-cli g Demo
-
-...等待构建结束
-
-```
+* 提高团队的协作能力
+* 提高代码的复用利用率
+* 可以写出质量更高，效率更好的代码
+* 为后期维护提供更好的支持
