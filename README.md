@@ -1,6 +1,6 @@
 # 概要
 
-- 项目构建[线上地址](https://github.com/q-qin/gitbook/wiki)
+- 项目构建[线上地址](https://www.kancloud.cn/jailbreak_2012/development-standard/1693738)
 
 # 前端开发规范的意义
 
