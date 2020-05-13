@@ -1,6 +1,6 @@
 # 概要
 
-- 项目构建[线上地址](/wiki)
+- 项目构建[线上地址](https://github.com/q-qin/gitbook/wiki)
 ```
 // 安装shoudao-cli
 $ npm i -g shoudao-cli
